@@ -1,0 +1,8 @@
+{
+    "yaoni.portWin": "COM1",
+    "files.associations": {
+        "random": "c",
+        "cstdint": "cpp",
+        "compare": "c"
+    }
+}
