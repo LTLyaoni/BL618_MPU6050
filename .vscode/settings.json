@@ -1,8 +1,13 @@
 {
-    "yaoni.portWin": "COM1",
+    "yaoni.portWin": "COM5",
     "files.associations": {
         "random": "c",
         "cstdint": "cpp",
-        "compare": "c"
+        "compare": "c",
+        "mcui2csoft.h": "c",
+        "driver_mpu6050_code.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "corecrt.h": "c"
     }
 }
